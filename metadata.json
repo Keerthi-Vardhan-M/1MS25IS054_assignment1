@@ -1,0 +1,8 @@
+{
+  "name": "PaperLens",
+  "description": "AI research paper agent built with Google AI Studio and Gemini. Paste or upload a paper and get a level-adjusted summary, method, key results, and critique. Few-shot prompted.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
